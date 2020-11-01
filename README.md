@@ -1,7 +1,9 @@
 
 ![image](https://github.com/aisu-dev/aisu-dev/blob/main/dino.gif?raw=true)<br><br>
-<h1>ABOUT ME</h1>:
-  > My name's Thanatorn Kanthala you can call me "Ice"
+<h1>ABOUT ME:</h1>
+
+  :v: My name's Thanatorn Kanthala you can call me "Ice".<br>
+  :school: I'm software engineering student at Chiang mai university, CAMT.<br>
 
 <!--
 **aisu-dev/aisu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

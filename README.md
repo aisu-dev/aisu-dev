@@ -1,5 +1,6 @@
 
 ![image](https://github.com/aisu-dev/aisu-dev/blob/main/dino.gif?raw=true)
+-Thanatorn Kanthala
 
 <!--
 **aisu-dev/aisu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

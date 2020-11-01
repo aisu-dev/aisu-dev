@@ -1,6 +1,6 @@
 
-![image](https://github.com/aisu-dev/aisu-dev/blob/main/dino.gif?raw=true)<br>
-ABOUT ME:
+![image](https://github.com/aisu-dev/aisu-dev/blob/main/dino.gif?raw=true)<br><br>
+<h1>ABOUT ME</h1>:
   > My name's Thanatorn Kanthala you can call me "Ice"
 
 <!--

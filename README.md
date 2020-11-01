@@ -17,6 +17,8 @@
   :point_right: Laravel||:+1:||| I used when study.
   :point_right: React||:+1:||| use in MERN Stack.
   
+ ![Aisu_Dev's github stats](https://github-readme-stats.vercel.app/api?username=aisu-dev&show_icons=true&theme=merko)
+
   
 
 <!--

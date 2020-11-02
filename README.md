@@ -2,9 +2,9 @@
 ![image](https://github.com/aisu-dev/aisu-dev/blob/main/dino.gif?raw=true)<br><br>
 <h1>ABOUT ME:</h1>
 
-  :v: My name's Thanatorn Kanthala you can call me "Ice".<br>
+  :v: My name's Thanatorn Kanthala you can call me "<b>Ice</b>".<br>
   :school: I'm software engineering student at Chiang mai university, CAMT.<br>
-  :trollface: Very Interesting in <b>Artificial Intelligence</b> and now I'm learning and focusing to it.<br>
+  :trollface: Very Interesting in "<b>Artificial Intelligence</b>" and now I'm learning and focusing to it.<br>
   :full_moon: [Youtube](https://www.youtube.com/channel/UCBmWpmYT8xD7Mii5a8J6HYw?view_as=subscriber)
   <br>
   :beers: Skill :muscle: | - Beginner - | - Known - | - Intermediate - | - Master - |:speech_balloon:

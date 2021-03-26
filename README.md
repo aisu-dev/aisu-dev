@@ -5,7 +5,7 @@
   :v: My name's Thanatorn Kanthala you can call me "<b>Ice</b>".<br>
   :school: I'm software engineering student at Chiang mai university, CAMT.<br>
   :trollface: Very Interesting in "<b>Artificial Intelligence</b>" and now I'm learning and focusing to it.<br>
-  :full_moon: [Youtube](https://www.youtube.com/channel/UCBmWpmYT8xD7Mii5a8J6HYw?view_as=subscriber)
+  :full_moon: [Youtube](https://www.youtube.com/channel/UCW3sFsXFE_1ROJbB9Ygz5KA)
   :full_moon: [Kaggle](https://www.kaggle.com/aisudev)
   <br>
   :beers: Skill :muscle: | - Beginner - | - Known - | - Intermediate - | - Master - |:speech_balloon:
